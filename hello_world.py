@@ -1,3 +1,6 @@
 # the following code below will print hello world in python
 
-print("Hello World")
+def run():
+  print("Hello World")
+run()
+
